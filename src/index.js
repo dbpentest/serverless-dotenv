@@ -30,7 +30,7 @@ class ServerlessDotenvPlugin {
 
     this.environmentVariables = {}
   }
-
+//x
   initOfflineHook () {
     this.IS_HOOKED = true
 
